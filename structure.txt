@@ -1,0 +1,84 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0654-E951
+C:.
+¦   structure.txt
+¦   
++---food-delivery-vite
+    ¦   .gitignore
+    ¦   eslint.config.js
+    ¦   index.html
+    ¦   package-lock.json
+    ¦   package.json
+    ¦   README.md
+    ¦   Requirements.txt
+    ¦   tsconfig.app.json
+    ¦   tsconfig.json
+    ¦   tsconfig.node.json
+    ¦   vite.config.ts
+    ¦            
+    +---public
+    ¦       favicon.ico
+    ¦       index.html
+    ¦       logo.png
+    ¦       logo192.png
+    ¦       logo512.png
+    ¦       robots.txt
+    ¦       vite.svg
+    ¦       
+    +---src
+        ¦   App.css
+        ¦   App.test.tsx
+        ¦   App.tsx
+        ¦   index.css
+        ¦   index.tsx
+        ¦   logo.svg
+        ¦   main.tsx
+        ¦   react-app-env.d.ts
+        ¦   reportWebVitals.ts
+        ¦   setupTests.ts
+        ¦   vite-env.d.ts
+        ¦   
+        +---assets
+        ¦       react.svg
+        ¦       
+        +---components
+        ¦       AdminNavbar.tsx
+        ¦       NavBar.css
+        ¦       UserNavbar.tsx
+        ¦       
+        +---images
+        ¦       biryani.jpg
+        ¦       burger.jpg
+        ¦       fries.jpg
+        ¦       icecream.jpg
+        ¦       momos.jpg
+        ¦       pasta.jpg
+        ¦       pizza.jpg
+        ¦       salad.jpg
+        ¦       sandwich.jpg
+        ¦       wrap.jpg
+        ¦       
+        +---pages
+            ¦   Landing.css
+            ¦   Landing.tsx
+            ¦   
+            +---Admin
+            ¦       AddItem.tsx
+            ¦       AdminLogin.css
+            ¦       AdminLogin.tsx
+            ¦       ViewOrders.tsx
+            ¦       ViewUsers.tsx
+            ¦       
+            +---types
+            ¦       hook.ts
+            ¦       
+            +---User
+                    Cart.css
+                    Cart.tsx
+                    Home.css
+                    Home.tsx
+                    MyOrders.tsx
+                    Register.tsx
+                    UserAuth.css
+                    UserLogin.tsx
+                    
