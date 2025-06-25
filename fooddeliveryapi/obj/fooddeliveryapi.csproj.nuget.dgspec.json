@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labadmin\\f2bProject\\fooddeliveryapi\\fooddeliveryapi.csproj": {}
+    "C:\\Users\\labadmin\\f2bProject\\FoodDeliveryApi\\FoodDeliveryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labadmin\\f2bProject\\fooddeliveryapi\\fooddeliveryapi.csproj": {
+    "C:\\Users\\labadmin\\f2bProject\\FoodDeliveryApi\\FoodDeliveryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labadmin\\f2bProject\\fooddeliveryapi\\fooddeliveryapi.csproj",
-        "projectName": "fooddeliveryapi",
-        "projectPath": "C:\\Users\\labadmin\\f2bProject\\fooddeliveryapi\\fooddeliveryapi.csproj",
+        "projectUniqueName": "C:\\Users\\labadmin\\f2bProject\\FoodDeliveryApi\\FoodDeliveryApi.csproj",
+        "projectName": "FoodDeliveryApi",
+        "projectPath": "C:\\Users\\labadmin\\f2bProject\\FoodDeliveryApi\\FoodDeliveryApi.csproj",
         "packagesPath": "C:\\Users\\labadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labadmin\\f2bProject\\fooddeliveryapi\\obj\\",
+        "outputPath": "C:\\Users\\labadmin\\f2bProject\\FoodDeliveryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\labadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
